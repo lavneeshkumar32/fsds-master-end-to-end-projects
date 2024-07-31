@@ -12,4 +12,9 @@ git commit -m "this is my first commit"
 git pull # fetch all the changes which is created in git repository.
 ...
 bash yourfilename.sh
+<<<<<<< HEAD
 ...
+=======
+...
+
+>>>>>>> 9ae65e55cf5441bec96904095074089a8b7e4137

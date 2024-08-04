@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 from typing import List
-from src import something
+
 
 """HYPEN_E_DOT='-e .'
 
@@ -23,9 +23,3 @@ setup(
     install_requires=["scikit-learn","pandas","numpy"],
     packages=find_packages()
 )
-import sys
-  
-# adding src to the system path
-sys.path.insert(0, '/home/USERNAME/PATH/TO/src')
-  
-from src import something

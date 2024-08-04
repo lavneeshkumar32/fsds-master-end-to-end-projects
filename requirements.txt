@@ -5,10 +5,5 @@ ipykernel
 
 -e .
 
-seaborn
+seaborn 
 matplotlib
-Flask
-#this is more stable version
-mlflow==2.2.2
-dvc
-apache-airflow
